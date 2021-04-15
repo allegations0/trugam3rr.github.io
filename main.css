@@ -6,7 +6,7 @@
   cursor: pointer;
   padding: 10px 20px;
   border: none;
-  font: normal 32px/normal exo, Helvetica, sans-serif;
+  font: normal 32px/normal "exo", Helvetica, sans-serif;
   color: rgba(0,0,0,1);
   text-align: center;
   -o-text-overflow: clip;
