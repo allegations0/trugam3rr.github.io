@@ -5,9 +5,11 @@
   margin: 0px auto 0px auto; 
   display: block; 
   font-family: 'Exo', sans-serif;
+  font-size: 40px;
   background: #FFFFFF; 
   color: #000000; 
   text-shadow: 0px 0px 11px #070607; 
   text-align: center;
+  letter-spacing: 2px;
   filter: dropshadow(color=#070607, offx=0, offy=0); 
 }
