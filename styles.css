@@ -1,4 +1,4 @@
-#welcome { 
+.welcome { 
   height: auto; 
   width: 888px; 
   padding: 15px 15px 15px 15px; 
@@ -6,10 +6,10 @@
   display: block; 
   font-family: 'Exo', sans-serif;
   font-size: 22px;
-  background: #FFFFFF; 
   color: #000000; 
   text-shadow: 0px 0px 11px #070607; 
   text-align: center;
   letter-spacing: 2px;
   filter: dropshadow(color=#070607, offx=0, offy=0); 
 }
+
