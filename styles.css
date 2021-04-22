@@ -10,3 +10,25 @@
   letter-spacing: 2px;
   filter: dropshadow(color=#070607, offx=0, offy=0); 
 }
+.modbutton {
+	box-shadow: 0px 0px 50px 4px #9fb4f2;
+	background-color:transparent;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 4px #283966;
+}
+.modbutton:hover {
+	background-color:transparent;
+}
+.modbutton:active {
+	position:relative;
+	top:1px;
+}
+
