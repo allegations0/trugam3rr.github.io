@@ -9,10 +9,6 @@
   text-align: center;
   letter-spacing: 2px;
   filter: dropshadow(color=#070607, offx=0, offy=0); 
-  moz-transition: all .4s ease-in-out;
-  -o-transition: all .4s ease-in-out;
-  -webkit-transition: all .4s ease-in-out;
-  transition: all .4s ease-in-out;
 }
 
 .bn632-hover {
