@@ -4,11 +4,14 @@ body {
   display: -ms-flexbox;
   display: flex;
   background: #111;
-  font-family: 'Exo', sans-serif;
   -webkit-perspective: 1000px;
   perspective: 1000px;
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
+}
+
+p {
+  font-family: 'Exo', sans-serif;
 }
 
 #drag-container,
