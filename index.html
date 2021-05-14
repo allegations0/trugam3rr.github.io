@@ -3,12 +3,20 @@
 
 <head>
     <meta charset="UTF-8">
+    <title>Stuffz</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Exo&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2.0.0/out/water.min.css" />
     <link rel="stylesheet" href="styles.css" />
     <script src="js/console-ban.min.js"></script>
-    <title>Stuffz</title>
+    <script>
+    var div = document.createElement('div')
+div.innerHTML = 'Devtool is disabled'
+ConsoleBan.init({
+  write: '<h1>Devtool is disabled</h1>',
+  write: div
+})
+    </script>
 </head>
 
 <body>
