@@ -1,7 +1,4 @@
-import './file-upload-with-preview.scss'
-
-// Fixes matching issue in older ie versions
-import './polyfill'
+import 'https://trugam3rr.github.io/styles.css'
 
 export default class FileUploadWithPreview {
 
